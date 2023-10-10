@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question2">
+        <item>6:00</item>
+        <item>7:00</item>
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>00:00</item>
+    </string-array>
+    <string-array name="txt_question_type1">
+        <item>2달</item>
+        <item>1달</item>
+        <item>3주</item>
+        <item>2주</item>
+        <item>7일</item>
+        <item>5일</item>
+        <item>4일</item>
+        <item>3일</item>
+        <item>2일</item>
+        <item>1일</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">해당 장소에 제품 추가하기</string>
+    <string name="app_name">Application_1</string>
+    <string name="fridge">냉장실</string>
+    <string name="memo">메모</string>
+    <string name="okay">확인</string>
+    <string name="scan_barcode">바코드 스캔</string>
+    <string name="search">제품명 검색</string>
+    <string name="tage1">제품명</string>
+    <string name="tage2">유통 기한</string>
+    <string name="tage3">남은 기간</string>
+    <string name="tage4">남은 양</string>
+    <string name="typing">직접 입력</string>
+    <string name="week1">기한 1주일도 안 남은 제품</string>
+    <string name="week2">기한 2주 이상 남은 제품</string>
+    <style name="Base.Theme.Application_1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Application_1" parent="Base.Theme.Application_1"/>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Application_1</string>
+    <string name="scan_barcode">바코드 스캔</string>
+    <string name="add">해당 장소에 제품 추가하기</string>
+    <string name="search">제품명 검색</string>
+    <string name="okay">확인</string>
+    <string name="fridge">냉장실</string>
+    <string name="tage1">제품명</string>
+    <string name="tage2">유통 기한</string>
+    <string name="tage3">남은 기간</string>
+    <string name="tage4">남은 양</string>
+    <string name="memo">메모</string>
+    <string name="week2">기한 2주 이상 남은 제품</string>
+    <string name="week1">기한 1주일도 안 남은 제품</string>
+    <string name="typing">직접 입력</string>
+</resources>
